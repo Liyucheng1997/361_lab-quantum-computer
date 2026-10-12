@@ -1,0 +1,18 @@
+{
+  "name": "quantum-computer-3d",
+  "private": true,
+  "version": "1.0.0",
+  "description": "用 Three.js 精细建模的超导量子计算机，交互式展示量子计算原理与加速来源",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "vite": "^8.3.4"
+  }
+}
